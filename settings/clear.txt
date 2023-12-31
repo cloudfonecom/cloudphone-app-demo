@@ -1,7 +1,7 @@
 1:HC["/",""]
 2:HL["/cloudphone-app-demo/_next/static/css/dfb0759df264afab.css","style"]
 3:HL["/cloudphone-app-demo/_next/static/css/6f92ba485333e6a7.css","style"]
-0:["VXd_KfABNe5Uzm3qMpUVX",[[["",{"children":["settings",{"children":["clear",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L4",[[["$","link","0",{"rel":"stylesheet","href":"/cloudphone-app-demo/_next/static/css/dfb0759df264afab.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/cloudphone-app-demo/_next/static/css/6f92ba485333e6a7.css","precedence":"next"}]],"$L5"]]]]
+0:["5Cy37h9rxgSA_Zj3UaTlN",[[["",{"children":["settings",{"children":["clear",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L4",[[["$","link","0",{"rel":"stylesheet","href":"/cloudphone-app-demo/_next/static/css/dfb0759df264afab.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/cloudphone-app-demo/_next/static/css/6f92ba485333e6a7.css","precedence":"next"}]],"$L5"]]]]
 6:I{"id":3724,"chunks":["272:static/chunks/webpack-17f606797f41c0b4.js","258:static/chunks/1dd012d3-0571d4b6b295316e.js","892:static/chunks/892-e9f07517c11a2c49.js"],"name":"","async":false}
 7:I{"id":5792,"chunks":["272:static/chunks/webpack-17f606797f41c0b4.js","258:static/chunks/1dd012d3-0571d4b6b295316e.js","892:static/chunks/892-e9f07517c11a2c49.js"],"name":"","async":false}
 a:I{"id":2490,"chunks":["280:static/chunks/280-081a61273693af9f.js","255:static/chunks/255-c7e9ce699b38b708.js","185:static/chunks/app/layout-9ad27205cff72ecf.js"],"name":"SpaceNav","async":false}
