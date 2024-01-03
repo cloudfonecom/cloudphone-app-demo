@@ -6,4 +6,4 @@ npx local-web-server
 
 ## Live Demo
 
--   <https://cloudfonecom.github.io/cloudphone-app-demo/>
+-   <https://cloudfonecom.github.io/cloudphone-widget-demo/>
